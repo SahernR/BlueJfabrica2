@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Fabrica
+comment0.text=\r\n\ Evaluacion\ 4.\r\n\ \r\n\ @author\ (Sebastian\ Ahern)\ \r\n\ @version\ (2.0)\r\n
+comment1.params=
+comment1.target=Fabrica()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fabrica\r\n
+comment2.params=
+comment2.target=java.lang.String\ getContenedor()
+comment3.params=value
+comment3.target=void\ setContenedor(java.lang.String)
+comment4.params=cantidad\ contenedor
+comment4.target=java.lang.String\ agregarMaterial(int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ fabricar()
+comment6.params=
+comment6.target=int\ getOKs()
+comment7.params=
+comment7.target=int\ getFallidos()
+numComments=8
